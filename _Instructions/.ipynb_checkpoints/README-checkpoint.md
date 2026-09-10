@@ -23,7 +23,7 @@ Work on the exercises  \
 Upload the colab notebook you worked on in this Shared Drive \
 Shared drive:`https://drive.google.com/drive/folders/1DtcaKBiTd9rvf4JXp1awXB-wTp61iJ5m?usp=sharing` \
 
-## 03 September 2026
+## 10 September 2026
 
 ### Conda environments 
 Check out the pdf file `condaEnvironment.pdf` for info about creating and saving environments \ 
