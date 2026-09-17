@@ -40,3 +40,14 @@ Change the file to your SURNAME \
 Work on the exercises  \
 Upload the colab notebook you worked on in this Shared Drive \
 Shared drive:`https://drive.google.com/drive/folders/1jdcCYvUsWvJIk9XoJdL7wqTDtgW4GbAB?usp=sharing` \
+
+
+## 17 September 2026
+
+Go to the notebook `4Derivatives_surname.ipynb` \
+Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises  \
+Upload the colab notebook you worked on in this Shared Drive \
+Shared drive:`https://drive.google.com/drive/folders/1j-JI7ff9cS1azQbun73uqhXtmiO5GEix?usp=sharing` \
