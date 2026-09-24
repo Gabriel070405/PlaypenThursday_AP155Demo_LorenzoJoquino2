@@ -1,0 +1,4 @@
+name: AnascoEnv
+channels:
+  - conda-forge
+prefix: /opt/conda/envs/AnascoEnv
