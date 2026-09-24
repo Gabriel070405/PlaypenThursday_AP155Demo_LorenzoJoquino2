@@ -51,3 +51,13 @@ Change the file to your SURNAME \
 Work on the exercises  \
 Upload the colab notebook you worked on in this Shared Drive \
 Shared drive:`https://drive.google.com/drive/folders/1j-JI7ff9cS1azQbun73uqhXtmiO5GEix?usp=sharing` \
+
+## 25 September 2026
+
+Go to the notebook `5MoreDerivatives_surname.ipynb` \
+Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises  \
+Upload the colab notebook you worked on in this Shared Drive \
+Shared drive:`https://drive.google.com/drive/folders/19MluWFy_yG2KDC8XSh4wpW8D-VRLrTG5?usp=drive_link` \
