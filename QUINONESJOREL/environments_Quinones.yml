@@ -1,0 +1,5 @@
+name: '[JorelEnv]'
+channels:
+  - defaults
+dependencies: []
+prefix: C:\Users\Jorel\miniconda3\envs\[JorelEnv]
