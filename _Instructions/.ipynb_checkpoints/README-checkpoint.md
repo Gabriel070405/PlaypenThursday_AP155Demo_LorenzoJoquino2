@@ -71,3 +71,23 @@ Change the file to your SURNAME \
 Work on the exercises  \
 Upload the colab notebook you worked on in this Shared Drive \
 Shared drive:`https://drive.google.com/drive/folders/1gU5Lk7QCnJ0iOEH2IqtuGfZke5oq8lX5?usp=drive_link` \
+
+## 08 October 2026
+
+Go to the notebook `7MoreMatrices_surname.ipynb` \
+Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises  \
+Upload the colab notebook you worked on in this Shared Drive \
+Shared drive:`https://drive.google.com/drive/folders/175k_vt6m7bBBM6FD8N3gsAFFcG3EJkDz?usp=drive_link` \
+
+## 08 October 2026
+
+Go to the notebook `8RootFinding_surname.ipynb` \
+Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
+Make a copy in Drive \
+Change the file to your SURNAME \
+Work on the exercises  \
+Upload the colab notebook you worked on in this Shared Drive \
+Shared drive:`https://drive.google.com/drive/folders/1C_xuj8lwBuPO7fIJm9hGpOt--OPUyErv?usp=sharing` \
